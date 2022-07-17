@@ -1,3 +1,6 @@
+'''This is a programme that demonstrates a number guessing programme whereby the user enters a random number(ranging from 0 to "random number") and tracks the number of guesses until they get the correct guess.'''
+
+
 import random
 
 top_of_range = input("Type a number: ")

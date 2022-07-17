@@ -1,3 +1,6 @@
+'''This is a programme that demonstrates a password managing programme. The user can create a password file, and add or view passwords'''
+
+
 def view():
     with open("passwords.txt", "r") as f:
         for line in f.readlines():

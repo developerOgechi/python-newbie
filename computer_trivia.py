@@ -1,3 +1,5 @@
+'''This is a programme that demonstrates a computer fun facts trivia game The user chooses their path and can either win or loose.'''
+
 print("Welcome to Computer Quiz Game!")
 
 
@@ -10,8 +12,8 @@ print("Okay! Let's play :)")
 score = 0
 
 
-answer = input("Who is the father of Computer science? ").lower()
-if answer == "Charles Babbage":
+answer = input("Who is the father of Computer science? ")
+if answer == "charles babbage":
     print("Correct!")
     score = score + 1
 else:
@@ -19,7 +21,7 @@ else:
 
 
 answer = input("Which is the common name for the crime of stealing passwords? ")
-if answer == "Spoofing":
+if answer == "spoofing":
     print("Correct!")
     score = score + 1
 else:
