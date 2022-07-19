@@ -1,4 +1,4 @@
-'''This is a programme that demonstrates a computer fun facts trivia game The user chooses their path and can either win or loose.'''
+'''This is a programme that demonstrates a computer fun facts trivia game.'''
 
 print("Welcome to Computer Quiz Game!")
 
