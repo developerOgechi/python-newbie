@@ -2,8 +2,8 @@
 
 This is a repo that contains simple mini-programmes for python newbies. They give a basic understanding of Python :snake:
 - Variables
-- If statements
-etc
+- Conditional statements
+- Functions
 
 ## Programmes
 1. **Rock Paper Scissors Game** :rock: :book: :scissors: A programme that demonstrates the  ROCK PAPER SCISSORS game between a user and the computer. The user can then prompt the scores at any given time
