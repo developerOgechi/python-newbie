@@ -1,4 +1,4 @@
-## Sample programmes for a python-newbie
+## Mini-games in python
 
 This is a repo that contains simple mini-programmes demonstrating simple famous games. They give a basic understanding of Python :snake:
 - Variables
