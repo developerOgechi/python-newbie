@@ -1,6 +1,6 @@
 ## Sample programmes for a python-newbie
 
-This is a repo that contains simple mini-programmes for python newbies. They give a basic understanding of Python :snake:
+This is a repo that contains simple mini-programmes demonstrating simple famous games. They give a basic understanding of Python :snake:
 - Variables
 - Conditional statements
 - Functions
